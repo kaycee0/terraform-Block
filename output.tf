@@ -2,8 +2,8 @@ output "region" {
   value = var.region
 }
 
-output "candidate" {
-  value = var.candidate
+output "project_name" {
+  value = var.project_name
 
 }
 
